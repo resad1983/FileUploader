@@ -1,4 +1,4 @@
-const GAS_URL = 'https://script.google.com/macros/s/AKfycbwMwuLE2-ebtFjl9V5Nms6zyFjXaHmEod7UTQW7y23MFLCHjqg0yS_JCVqnz7YRwNXhdA/exec'; // ← 替換這裡
+const GAS_URL = 'https://script.google.com/macros/s/AKfycbxChPwCuHbNUYS5tT1NjKUQsBmoxYjb147ZNWMRTzGsaWNz0hvOWmIPTdl_Z8ErZQWQNQ/exec'; // ← 替換這裡
 
 document.getElementById('uploadForm').addEventListener('submit', async function (e) {
   e.preventDefault();
